@@ -69,7 +69,7 @@ customer-segmentation/
 
 ##  Author
 **Simurzar Farkhadova**  
- Warsaw, Poland | [LinkedIn](https://linkedin.com/in/simurzar) | [Email](mailto:simurzar@gmail.com)
+ Warsaw, Poland | [[LinkedIn](https://linkedin.com/in/simurzar)](https://www.linkedin.com/in/simurzar-farkhadova/) | [Email](mailto:simurzar@gmail.com)
 
 ---
 
